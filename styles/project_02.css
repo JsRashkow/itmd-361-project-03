@@ -135,6 +135,11 @@ section:last-of-type {
 	padding-right: 8px;
 }
 
+.slider {
+	display: block;
+	margin: 0 auto;
+}
+
 /*Paragraph Styles*/
 #index_sec_1 p {
   font-size: 16px;
