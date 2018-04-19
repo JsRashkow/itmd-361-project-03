@@ -126,7 +126,7 @@ section:last-of-type {
   text-align: center;
 }
 
-#aboutme_sec_1 h2 {
+#aboutme_sec_1 h2, #aboutme_sec_2 h2 {
   font-size: 30px;
   text-align: center;
 }
